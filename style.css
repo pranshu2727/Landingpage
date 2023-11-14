@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+}
+
+#navbar {
+    text-align: center;
+    overflow: hidden;
+    background: black;
+    color: #fff;
+    font-size: 42px;
+    padding: 26px;
+}
+
+#section {
+    height: 600px;
+    background: url(./img/redwine.jpg)  ;
+    color: #fff;
+
+}
+
+#section #container2 {
+    text-align: center;
+    padding-top: 152px;
+    overflow: auto;
+}
+
+#section #container2 #head {
+    font-size: 42px;
+}
+
+#section #container2 #para {
+    padding-top: 20px;
+    font-size: 20px;
+}
+
+#section a{
+    text-decoration: none;
+    padding: 15px;
+    margin-top: 31px;
+    display: inline-block;
+    background: #7e071b;
+    color: #fff;
+    width: 216px;
+    border-radius: 26px;
+}
